@@ -4,6 +4,14 @@
 
 Integrity is a simple tool to scan a hackathon project gallery for misconduct. It is designed to be used by hackathon organizers to quickly identify projects that may be in violation of the hackathon rules.
 
+## Screenshots
+
+**Scanning in Progress**
+![alt text](integrity_screenshot_progress.png)
+
+**Flagged Projects**
+![Integrity Screenshot](integrity_screenshot.png)
+
 ### Features
 
 - Similarity Scanning (e.g. scans related devpost projects for plagiarism)
